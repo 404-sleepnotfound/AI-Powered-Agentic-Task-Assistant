@@ -32,15 +32,20 @@ tasks.json → Auto-generated file for storing tasks
 
 ## Screenshots
 
-Main Menu  
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
 
-AI Task Generation  
+### AI Task Generation
+![AI Task Generation](screenshots/AI-task-generation.png)
 
-Task List View  
+### Task List
+![Task List](screenshots/generated-task-list.png)
 
-Progress Tracking  
+### Progress Tracking
+![Progress Tracking](screenshots/progress-tracking.png)
 
-Next Task Suggestion  
+### Next Task Suggestion
+![Next Task Suggestion](screenshots/next-best-task.png) 
 
 ---
 
