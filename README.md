@@ -52,7 +52,7 @@ tasks.json → Auto-generated file for storing tasks
 ## How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/404-sleepnotfound/AI-Powered-Agentic-Task-Assistant.git
 
 Install dependencies:
 pip install google-generativeai
